@@ -37,7 +37,8 @@ python src/heart_disease_analysis.py
 ```
 heart-disease-ml/
 │
-├── data/
-├── src/
+├── heart-disease-dataset.csv
+├── heart-disease-dataset.csv
 ├── README.md
+├── requirements.txt
 ```
