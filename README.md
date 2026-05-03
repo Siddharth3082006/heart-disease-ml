@@ -1,4 +1,4 @@
-Heart Disease prediction using ML
+Heart Disease prediction using Machine Learning
 
 📌 Overview
 
@@ -29,7 +29,7 @@ Models Used
 
 ```bash
 pip install -r requirements.txt
-python src/heart_disease_analysis.py
+python heart_disease_analysis.py
 ```
 
 📁 Project Structure
@@ -37,7 +37,7 @@ python src/heart_disease_analysis.py
 ```
 heart-disease-ml/
 │
-├── heart-disease-dataset.csv
+├── heart_disease-analysis.py
 ├── heart-disease-dataset.csv
 ├── README.md
 ├── requirements.txt
