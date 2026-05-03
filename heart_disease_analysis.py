@@ -17,7 +17,7 @@ from sklearn.decomposition import PCA
 # ==============================
 # 1. LOAD DATA
 # ==============================
-df = pd.read_csv('data/heart-disease-dataset.csv')
+df = pd.read_csv('heart-disease-dataset.csv')
 
 X = df[['age', 'sex', 'chest_pain_type', 'resting_bp_s', 'cholesterol',
         'fasting_blood_sugar', 'resting_ecg', 'max_heart_rate',
