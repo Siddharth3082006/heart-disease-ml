@@ -42,3 +42,15 @@ heart-disease-ml/
 ├── README.md
 ├── requirements.txt
 ```
+
+Model Performance
+
+• Logistic Regression Accuracy: 86.1%
+
+--->Random Forest Results:
+• Accuracy: 94.5%
+• Precision: 93.3%
+• Recall: 96.9%
+• F1 Score: 95.1%
+
+##Random forest outperform Logistic Regression significantly
